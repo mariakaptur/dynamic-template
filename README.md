@@ -1,5 +1,5 @@
 # dynamic-template-real-estate
-HTML, CSS, JS : https://mariakaptur.github.io/dynamic-template-realestate/
+HTML, CSS, JS : https://mariakaptur.github.io/dynamic-template-real-estate/
 
 **ABOUT**
 Real estate sample template with 3 changing photos.
